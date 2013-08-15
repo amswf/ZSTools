@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<flexLibProperties includeAllClasses="true" useMultiPlatformConfig="false" version="3">
+  <includeClasses>
+    <classEntry path="com.zs.uri.HTTPURIParameter"/>
+    <classEntry path="com.zs.uri.HTTPURI"/>
+    <classEntry path="com.zs.tools.AppTools"/>
+    <classEntry path="com.zs.tools.ArrayUtil"/>
+    <classEntry path="com.zs.tools.Base64"/>
+    <classEntry path="com.zs.tools.ColorUtils"/>
+    <classEntry path="com.zs.tools.Debug"/>
+    <classEntry path="com.zs.tools.DomainQuery"/>
+    <classEntry path="com.zs.tools.DomainQuery2"/>
+    <classEntry path="com.zs.tools.FlashVars"/>
+    <classEntry path="com.zs.tools.GetFunctionName"/>
+    <classEntry path="com.zs.tools.GetSWFClassName"/>
+    <classEntry path="com.zs.tools.HitTest"/>
+    <classEntry path="com.zs.tools.JPGEncoder"/>
+    <classEntry path="com.zs.tools.LibLoader"/>
+    <classEntry path="com.zs.tools.PNGEncoder"/>
+    <classEntry path="com.zs.tools.ParseUtil"/>
+    <classEntry path="com.zs.tools.Pattern"/>
+    <classEntry path="com.zs.tools.PixelAnimation"/>
+    <classEntry path="com.zs.tools.PointFixed"/>
+    <classEntry path="com.zs.tools.RightClick"/>
+    <classEntry path="com.zs.tools.SWFProfiler"/>
+    <classEntry path="com.zs.tools.SheetMovie"/>
+    <classEntry path="com.zs.tools.Stats"/>
+    <classEntry path="com.zs.tools.SwfDecode"/>
+    <classEntry path="com.zs.tools.SwfEncode"/>
+    <classEntry path="com.zs.tools.TansformTool"/>
+    <classEntry path="com.zs.tools.WheelFilter"/>
+    <classEntry path="com.zs.effects.MosaicEffect"/>
+  </includeClasses>
+  <includeResources/>
+  <namespaceManifests/>
+</flexLibProperties>
